@@ -1,0 +1,4 @@
+interface:
+  display_name: "LINE Sticker Set"
+  short_description: "Generate and slice LINE-style sticker sheets."
+  default_prompt: "Create a 16-piece LINE-style sticker set from an uploaded character photo and a scene description, then export transparent PNG stickers."
