@@ -34,9 +34,6 @@ Upload a reference image with the request.
 
 ## Examples
 
-### 表情包制作，米兰万岁
-
-![米兰万岁 sticker set](examples/milan-wansui-contact-sheet.png)
 
 ### 表情包制作，米兰加油
 
